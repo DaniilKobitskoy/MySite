@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MySite</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Авторизируйтесь</string>
+    <string name="nav_header_subtitle">Авторизируйтесь@mail.ru</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Главная</string>
+    <string name="menu_kt">Каталог</string>
+    <string name="menu_opl">Оплата</string>
+    <string name="menu_dost">Доставка</string>
+    <string name="menu_con">Контакты</string>
+    <string name="menu_nov">Новости магазина</string>
+    <string name="menu_ak">Акции магазина</string>
+    <string name="check_connect_text">Интернет-соединение отсутствует</string>
+    <string name="website_domain">https://fishing-ai.ru/</string>
+    <string name="website_url">https://fishing-ai.ru/</string>
+    <string name="website_urlFeedBack">https://fishing-ai.ru/page/Kontakty</string>
+    <string name="website_kt">https://fishing-ai.ru/catalog</string>
+    <string name="website_opl">https://fishing-ai.ru/page/Oplata</string>
+    <string name="website_dost">https://fishing-ai.ru/page/Dostavka</string>
+    <string name="website_nov">https://fishing-ai.ru/news?sid=1</string>
+    <string name="website_ak">https://fishing-ai.ru/discount</string>
+
+</resources>
